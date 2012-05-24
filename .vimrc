@@ -52,8 +52,6 @@ set hlsearch
 set ignorecase
 set sm
 
-"---spell check---
-set spell
 
 
 "---ctags setting---
