@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/users/liuxiaohui/workroot/op/oped/noah/apollo/web/apollo/protected/controllers'
+let g:netrw_dirhist_2='/home/users/liuxiaohui/workroot/op/oped/noah/lib/fc-agent'
+let g:netrw_dirhist_3='/home/users/liuxiaohui/scm_root/bscp/op/oped/noah/icc/data-center'
+let g:netrw_dirhist_4='/home/users/liuxiaohui/scm_root/fc-agent/op/oped/noah/lib/fc-agent'
+let g:netrw_dirhist_5='/home/users/liuxiaohui/scmroot/fc-agent/op/oped/noah/lib/fc-agent/output/conf'
+let g:netrw_dirhist_6='/home/users/liuxiaohui/scmroot/fc-agent/op/oped/noah/lib/fc-agent/output.test/conf'
+let g:netrw_dirhist_7='/home/users/liuxiaohui/tmp'
+let g:netrw_dirhist_8='/home/users/liuxiaohui/scmroot/bscpmerger/op/oped/noah/tools/bscpmerger/deploy'
