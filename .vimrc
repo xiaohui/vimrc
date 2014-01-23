@@ -33,7 +33,7 @@ set ffs=unix,dos,mac
 set ff=unix
 
 colorscheme desert
-set columns=120
+" --- set columns=120
 set number
 
 " statusline
@@ -52,6 +52,11 @@ set hlsearch
 set ignorecase
 set sm
 
+
+"----protobuf highlight---
+augroup filetype
+   au! BufRead,BufNewFile *.proto setfiletype protobuf
+augroup end
 
 
 "---ctags setting---
